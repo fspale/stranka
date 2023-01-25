@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sedlčanský kraj</title>
+</head>
+<body>
+    <h1>Sedlčanský kraj</h1>
+    <nav>
+        <ul>
+            <li><a href="#latest-articles">Nejnovější články</a></li>
+            <li><a href="#about-us">O nás</a></li>
+            <li><a href="#contact-us">Kontaktujte nás</a></li>
+        </ul>
+    </nav>
+    <h2 id="latest-articles">Nejnovější články</h2>
+    <ul>
+        <li>Článek 1</li>
+        <li>Článek 2</li>
+        <li>Článek 3</li>
+    </ul>
+    <h2 id="about-us">O nás</h2>
+    <p>Informace o Sedlčanský kraj</p>
+    <h2 id="contact-us">Kontaktujte nás</h2>
+    <p>Kontaktní údaje Sedlčanský kraj</p>
+</body>
+</html>
